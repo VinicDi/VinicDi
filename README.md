@@ -18,10 +18,10 @@
   <img align="center" alt="Dio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   
-  <img align="right" alt="Dio-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Dio-pic" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88460475/208813882-89dba327-f441-4c7b-b434-8dda353dee2a.jpeg">
 </div>
   
-  ##
+  
  
 <div> 
   <a href = "vinipatrocinio.vd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
